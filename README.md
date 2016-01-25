@@ -22,7 +22,7 @@ Add `Bundle 'ToQoz/unite-go-doc'`
 If you want to use custom godoc command that is not :GoDoc
 
 ```vim
-g:godoc_command = "CustomeGoDoc"
+g:godoc_command = "CustomGoDoc"
 ```
 
 ## Usage
